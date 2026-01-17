@@ -85,3 +85,22 @@ body {
     border:none;
 }
 
+.content {
+    display:flex;
+    flex-direction: column;
+}
+
+.information {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding:0px 400px 75px 400px;
+}
+
+.information h2 {
+    color: #1F2937;
+    font-weight:900;
+    font-size:36px;
+    margin:50px;
+}
+
